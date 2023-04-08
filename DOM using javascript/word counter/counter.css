@@ -1,0 +1,26 @@
+div{
+    height: 400px;
+    width: 500px;
+    border: 2px solid;
+    border-color: aqua;
+    background-color: darkgoldenrod;
+}
+#input{
+    height: 100px;
+    width: 400px;
+    border: 2px solid;
+    margin-left: 45px;
+    
+}
+#btn{
+    height: 37px;
+    width: 120px;
+    background-color: blue;
+    border-radius: 40px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+p{
+    margin-left: 200px;
+    font-size: x-large;
+}

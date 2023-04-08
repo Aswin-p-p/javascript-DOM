@@ -1,0 +1,23 @@
+div{
+    height: 400px;
+    width: 600px;
+    background-color: black;
+}
+h1{
+    color: orange ;
+}
+#input{
+    height: 100px;
+    width: 400px;
+    margin-left: 70px;
+}
+#btn{
+    height: 40px;
+    width: 100px;
+    background-color: crimson;
+    border-radius: 40px;
+    margin-left: 250px;
+}
+p{
+    color: blue;
+}

@@ -1,0 +1,20 @@
+#btn{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    font-size: xx-large;
+}
+#main{
+    height: 400px;
+    width: 600px;
+    background-color: rgb(243, 174, 0);
+}
+h3{
+    color: rgb(54, 47, 255);
+    margin-left: 170px;
+}
+#second{
+    margin-left: 220px;
+    margin-top:  30px;
+
+}
